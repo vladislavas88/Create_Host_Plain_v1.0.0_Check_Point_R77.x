@@ -1,0 +1,12 @@
+create host_plain Organization_User_Computer_10.1.1.1
+modify network_objects Organization_User_Computer_10.1.1.1 ipaddr 10.1.1.1
+modify network_objects Organization_User_Computer_10.1.1.1 color 'forest green'
+create host_plain Organization_User_Computer_10.2.2.2
+modify network_objects Organization_User_Computer_10.2.2.2 ipaddr 10.2.2.2
+modify network_objects Organization_User_Computer_10.2.2.2 color 'forest green'
+create host_plain Organization_User_Computer_10.3.3.3
+modify network_objects Organization_User_Computer_10.3.3.3 ipaddr 10.3.3.3
+modify network_objects Organization_User_Computer_10.3.3.3 color 'forest green'
+create host_plain Organization_User_Computer_10.4.4.4
+modify network_objects Organization_User_Computer_10.4.4.4 ipaddr 10.4.4.4
+modify network_objects Organization_User_Computer_10.4.4.4 color 'forest green'
